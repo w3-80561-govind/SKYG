@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "user":"govind",
+    "password":"govind",
+    "database":"skyg",
+    "port":9898
+}
